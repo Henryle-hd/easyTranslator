@@ -1,7 +1,7 @@
 const page = () => {
   return (
     <div>
-      <h2 className="text-center">earyTranslator</h2>
+      <h2 className="text-center">easyTranslator 🧑‍💻</h2>
     </div>
   )
 }
