@@ -65,7 +65,7 @@ export const words =[
  {11   
      id:10,
      eng:" academic",
-     type:"adj", Noun",
+     type:"adj ,Noun",
           
       ksw:" kitaaluma",
  },
@@ -304,7 +304,7 @@ export const words =[
      id:44,
      eng:" adult",
      type:"Noun adj",
-        A2,
+         
       ksw:" watu wazima",
  },
  {46  
@@ -395,7 +395,7 @@ export const words =[
      id:57,
      eng:" after",
      type:"prep. conj. Adverb",
-        A2,
+         
       ksw:" baada",
  },
  {59   
@@ -583,14 +583,14 @@ export const words =[
  {85   
      id:84,
      eng:" all",
-     type:"det. pron", Adverb",
-         A2,
+     type:"det. pron ,Adverb",
+          
       ksw:" kila",
  },
  {86  
      id:85,
      eng:" all right",
-     type:"Adjective", Adverb exclam",
+     type:"Adjective ,Adverb exclam",
         
       ksw:" sawa",
  },
@@ -611,7 +611,7 @@ export const words =[
  {89   
      id:88,
      eng:" alone",
-     type:"Adjective", Adverb",
+     type:"Adjective ,Adverb",
         
       ksw:" peke",
  },
@@ -842,8 +842,8 @@ export const words =[
  {122  
      id:121,
      eng:" any",
-     type:"det. proNoun", Adverb",
-         A2,
+     type:"det. proNoun ,Adverb",
+          
       ksw:" yoyote",
  },
  {123   
@@ -1179,7 +1179,7 @@ export const words =[
      id:169,
      eng:" as",
      type:"prep., Adverb conj.,
-         A2,
+          
       ksw:" kama",
  },
  {171   
@@ -1409,7 +1409,7 @@ export const words =[
  {203   
      id:202,
      eng:" average",
-     type:"Adjective", Noun Verb",
+     type:"Adjective ,Noun Verb",
           
       ksw:" kila",
  },
@@ -1458,7 +1458,7 @@ export const words =[
  {210  
      id:209,
      eng:" back",
-     type:"Noun AdVerb Adjective", Verb",
+     type:"Noun AdVerb Adjective ,verb",
            
       ksw:" nyuma",
  },
@@ -1548,17 +1548,17 @@ export const words =[
  },
  {223   
      id:222,
-     eng:" bank (money),
+     eng:" bank (money)",
      type:"Noun",
         
-      ksw:" benki (fedha),
+      ksw:" benki (fedha)",
  },
  {224  
      id:223,
-     eng:" bank (river),
+     eng:" bank (river)",
      type:"Noun",
         
-      ksw:" benki (mto),
+      ksw:" benki (mto)",
  },
  {225   
      id:224,
@@ -1674,17 +1674,17 @@ export const words =[
  },
  {241   
      id:240,
-     eng:" bear (deal with),
+     eng:" bear (deal with)",
      type:"Verb",
      
-      ksw:" kubeba (mkataba na),
+      ksw:" kubeba (mkataba na)",
  },
  {242  
      id:241,
-     eng:" bear (animal),
+     eng:" bear (animal)",
      type:"Noun",
         
-      ksw:" kubeba (mnyama),
+      ksw:" kubeba (mnyama)",
  },
  {243   
      id:242,
@@ -1760,7 +1760,7 @@ export const words =[
      id:252,
      eng:" before",
      type:"prep., conj. Adverb",
-         A2,
+          
       ksw:" kabla",
  },
  {254  
@@ -1878,8 +1878,8 @@ export const words =[
  {270  
      id:269,
      eng:" best",
-     type:"Adjective", AdVerb Noun",
-         A2,
+     type:"Adjective ,AdVerb Noun",
+          
       ksw:" bora",
  },
  {271   
@@ -1900,7 +1900,7 @@ export const words =[
      id:272,
      eng:" between",
      type:"prep., Adverb",
-         A2,
+          
       ksw:" kati",
  },
  {274  
@@ -2011,7 +2011,7 @@ export const words =[
  {289   
      id:288,
      eng:" black",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
         
       ksw:" nyeusi",
  },
@@ -2025,7 +2025,7 @@ export const words =[
  {291   
      id:290,
      eng:" blank",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
         
       ksw:" tupu",
  },
@@ -2074,7 +2074,7 @@ export const words =[
  {298  
      id:297,
      eng:" blue",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
         
       ksw:" bluu",
  },
@@ -2131,7 +2131,7 @@ export const words =[
      id:305,
      eng:" book",
      type:"Noun Verb",
-         A2,
+          
       ksw:" kitabu",
  },
  {307   
@@ -2389,7 +2389,7 @@ export const words =[
  {343   
      id:342,
      eng:" brown",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
         
       ksw:" kahawia",
  },
@@ -3041,7 +3041,7 @@ export const words =[
      id:435,
      eng:" check",
      type:"Verb Noun",
-         A2,
+          
       ksw:" kuangalia",
  },
  {437   
@@ -3068,7 +3068,7 @@ export const words =[
  {440  
      id:439,
      eng:" chemical",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
         
       ksw:" kemikali",
  },
@@ -3096,7 +3096,7 @@ export const words =[
  {444  
      id:443,
      eng:" chief",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
      
       ksw:" mkuu",
  },
@@ -3222,7 +3222,7 @@ export const words =[
  {462  
      id:461,
      eng:" classic",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
      
       ksw:" classic",
  },
@@ -3250,14 +3250,14 @@ export const words =[
  {466  
      id:465,
      eng:" clean",
-     type:"Adjective", Verb",
+     type:"Adjective ,verb",
         
       ksw:" safi",
  },
  {467   
      id:466,
      eng:" clear",
-     type:"Adjective", Verb",
+     type:"Adjective ,verb",
           
       ksw:" wazi",
  },
@@ -3698,7 +3698,7 @@ export const words =[
  {530  
      id:529,
      eng:" complex",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
           
       ksw:" tata",
  },
@@ -3887,7 +3887,7 @@ export const words =[
  {557   
      id:556,
      eng:" conservative",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
      
       ksw:" kihafidhina",
  },
@@ -4105,7 +4105,7 @@ export const words =[
      id:587,
      eng:" cook",
      type:"Verb Noun",
-         A2,
+          
       ksw:" mpishi",
  },
  {589   
@@ -4125,7 +4125,7 @@ export const words =[
  {591   
      id:590,
      eng:" cool",
-     type:"Adjective", Verb",
+     type:"Adjective ,verb",
           
       ksw:" baridi",
  },
@@ -4517,7 +4517,7 @@ export const words =[
  {647   
      id:646,
      eng:" current",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
           
       ksw:" sasa",
  },
@@ -4587,7 +4587,7 @@ export const words =[
  {657   
      id:656,
      eng:" daily",
-     type:"Adjective", Adverb",
+     type:"Adjective ,Adverb",
           
       ksw:" siku",
  },
@@ -4636,8 +4636,8 @@ export const words =[
  {664  
      id:663,
      eng:" dark",
-     type:"Adjective", Noun",
-         A2,
+     type:"Adjective ,Noun",
+          
       ksw:" giza",
  },
  {665   
@@ -4686,7 +4686,7 @@ export const words =[
      id:670,
      eng:" dear",
      type:"Adjective", exclam",
-         A2,
+          
       ksw:" dear",
  },
  {672  
@@ -4783,7 +4783,7 @@ export const words =[
  {685   
      id:684,
      eng:" deep",
-     type:"Adjective", Adverb",
+     type:"Adjective ,Adverb",
           
       ksw:" kina",
  },
@@ -5231,7 +5231,7 @@ export const words =[
  {749   
      id:748,
      eng:" direct",
-     type:"Adjective", Verb Adverb",
+     type:"Adjective ,verb Adverb",
           
       ksw:" moja kwa moja",
  },
@@ -5554,7 +5554,7 @@ export const words =[
      id:795,
      eng:" downstairs",
      type:"Adverb , Adjective",
-         A2,
+          
       ksw:" chini",
  },
  {796  
@@ -5645,7 +5645,7 @@ export const words =[
      id:808,
      eng:" drive",
      type:"Verb Noun",
-         A2,
+          
       ksw:" gari",
  },
  {809   
@@ -5693,7 +5693,7 @@ export const words =[
  {815   
      id:815,
      eng:" dry",
-     type:"Adjective", Verb",
+     type:"Adjective ,verb",
         
       ksw:" kavu",
  },
@@ -6127,7 +6127,7 @@ export const words =[
  {877   
      id:877,
      eng:" empty",
-     type:"Adjective", Verb",
+     type:"Adjective ,verb",
           
       ksw:" tupu",
  },
@@ -6344,7 +6344,7 @@ export const words =[
  {908  
      id:908,
      eng:" equal",
-     type:"Adjective", Verb Noun",
+     type:"Adjective ,verb Noun",
           
       ksw:" sawa",
  },
@@ -6526,7 +6526,7 @@ export const words =[
  {934  
      id:934,
      eng:" evil",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
      
       ksw:" mabaya",
  },
@@ -6827,7 +6827,7 @@ export const words =[
  {977   
      id:977,
      eng:" extra",
-     type:"Adjective", Noun Adverb",
+     type:"Adjective ,Noun Adverb",
           
       ksw:" ziada",
  },
@@ -6841,7 +6841,7 @@ export const words =[
  {979   
      id:979,
      eng:" extreme",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
           
       ksw:" uliokithiri",
  },
@@ -6933,7 +6933,7 @@ export const words =[
      id:992,
      eng:" fall",
      type:"Verb Noun",
-         A2,
+          
       ksw:" kuanguka",
  },
  {993   
@@ -6996,7 +6996,7 @@ export const words =[
      id:1001,
      eng:" farm",
      type:"Noun Verb",
-         A2,
+          
       ksw:" mashamba",
  },
  {1002  
@@ -7037,7 +7037,7 @@ export const words =[
  {1007   
      id:1007,
      eng:" fast",
-     type:"Adjective", Adverb",
+     type:"Adjective ,Adverb",
         
       ksw:" haraka",
  },
@@ -7051,8 +7051,8 @@ export const words =[
  {1009   
      id:1009,
      eng:" fat",
-     type:"Adjective", Noun",
-         A2,
+     type:"Adjective ,Noun",
+          
       ksw:" mafuta",
  },
  {1010  
@@ -7079,7 +7079,7 @@ export const words =[
  {1013   
      id:1013,
      eng:" favourite",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
         
       ksw:" favorite",
  },
@@ -7156,7 +7156,7 @@ export const words =[
  {1024  
      id:1024,
      eng:" female",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
         
       ksw:" kike",
  },
@@ -7255,14 +7255,14 @@ export const words =[
      id:1038,
      eng:" film",
      type:"Noun Verb",
-         A2,
+          
       ksw:" filamu",
  },
  {1039   
      id:1039,
      eng:" final",
-     type:"Adjective", Noun",
-         A2,
+     type:"Adjective ,Noun",
+          
       ksw:" ya mwisho",
  },
  {1040  
@@ -7318,7 +7318,7 @@ export const words =[
      id:1047,
      eng:" finish",
      type:"Verb Noun",
-         A2,
+          
       ksw:" kumaliza",
  },
  {1048  
@@ -7339,7 +7339,7 @@ export const words =[
      id:1050,
      eng:" first",
      type:"det./number.AdVerb Noun",
-         A2,
+          
       ksw:" kwanza",
  },
  {1051   
@@ -7353,7 +7353,7 @@ export const words =[
      id:1052,
      eng:" fish",
      type:"Noun Verb",
-         A2,
+          
       ksw:" samaki",
  },
  {1053   
@@ -7423,7 +7423,7 @@ export const words =[
      id:1062,
      eng:" flat",
      type:"Noun Adjective",
-         A2,
+          
       ksw:" gorofa",
  },
  {1063   
@@ -7493,7 +7493,7 @@ export const words =[
      id:1072,
      eng:" fly",
      type:"Verb Noun",
-         A2,
+          
       ksw:" kuruka",
  },
  {1073   
@@ -7541,7 +7541,7 @@ export const words =[
  {1079   
      id:1079,
      eng:" following",
-     type:"Adjective", Noun prep",
+     type:"Adjective ,Noun prep",
             
       ksw:" zifuatazo",
  },
@@ -7709,7 +7709,7 @@ export const words =[
  {1103   
      id:1103,
      eng:" free",
-     type:"Adjective", AdVerb Verb",
+     type:"Adjective ,AdVerb Verb",
          
       ksw:" bure",
  },
@@ -7871,7 +7871,7 @@ export const words =[
      id:1126,
      eng:" fun",
      type:"Noun Adjective",
-         A2,
+          
       ksw:" furaha",
  },
  {1127   
@@ -7926,7 +7926,7 @@ export const words =[
  {1134  
      id:1134,
      eng:" further",
-     type:"Adjective", Adverb",
+     type:"Adjective ,Adverb",
           
       ksw:" zaidi",
  },
@@ -7941,7 +7941,7 @@ export const words =[
      id:1136,
      eng:" future",
      type:"Noun Adjective",
-         A2,
+          
       ksw:" baadaye",
  },
  {1137   
@@ -8094,7 +8094,7 @@ export const words =[
  {1158  
      id:1158,
      eng:" giant",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
         
       ksw:" kubwa",
  },
@@ -8192,8 +8192,8 @@ export const words =[
  {1172  
      id:1172,
      eng:" good",
-     type:"Adjective", Noun",
-         A2,
+     type:"Adjective ,Noun",
+          
       ksw:" nzuri",
  },
  {1173   
@@ -8318,7 +8318,7 @@ export const words =[
  {1190  
      id:1190,
      eng:" green",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
         
       ksw:" kijani",
  },
@@ -8332,7 +8332,7 @@ export const words =[
  {1192  
      id:1192,
      eng:" grey",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
         
       ksw:" kijivu",
  },
@@ -8451,8 +8451,8 @@ export const words =[
  {1209   
      id:1209,
      eng:" half",
-     type:"Noundet.proNoun", Adverb",
-         A2,
+     type:"Noundet.proNoun ,Adverb",
+          
       ksw:" nusu",
  },
  {1210  
@@ -8514,7 +8514,7 @@ export const words =[
  {1218  
      id:1218,
      eng:" hard",
-     type:"Adjective", Adverb",
+     type:"Adjective ,Adverb",
         
       ksw:" ngumu",
  },
@@ -8557,7 +8557,7 @@ export const words =[
      id:1224,
      eng:" have",
      type:"Verb auxiliary Verb",
-         A2,
+          
       ksw:" kuwa na",
  },
  {1225   
@@ -8780,7 +8780,7 @@ export const words =[
  {1256  
      id:1256,
      eng:" high",
-     type:"Adjective", AdVerb Noun",
+     type:"Adjective ,AdVerb Noun",
            
       ksw:" high",
  },
@@ -8830,7 +8830,7 @@ export const words =[
      id:1263,
      eng:" his",
      type:"det. proNoun",
-         A2,
+          
       ksw:" yake",
  },
  {1264  
@@ -8914,7 +8914,7 @@ export const words =[
      id:1275,
      eng:" home",
      type:"Noun AdVerb Adjective",
-         A2,
+          
       ksw:" nyumba",
  },
  {1276  
@@ -8942,7 +8942,7 @@ export const words =[
      id:1279,
      eng:" hope",
      type:"Verb Noun",
-         A2,
+          
       ksw:" matumaini",
  },
  {1280  
@@ -9046,7 +9046,7 @@ export const words =[
  {1294  
      id:1294,
      eng:" human",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
         
       ksw:" binadamu",
  },
@@ -9473,7 +9473,7 @@ export const words =[
  {1355   
      id:1355,
      eng:" individual",
-     type:"Noun", adj",
+     type:"Noun ,Adj",
         
       ksw:" mtu binafsi",
  },
@@ -9914,7 +9914,7 @@ export const words =[
  {1418  
      id:1418,
      eng:" issue",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" suala",
  },
@@ -10131,7 +10131,7 @@ export const words =[
  {1449   
      id:1449,
      eng:" key",
-     type:"Noun", Adjective Verb",
+     type:"Noun ,Adjective Verb",
           
       ksw:" ufunguo",
  },
@@ -10179,17 +10179,17 @@ export const words =[
  },
  {1456  
      id:1456,
-     eng:" kind(type),
+     eng:" kind(type)",
      type:"Noun",
         
-      ksw:" aina (aina),
+      ksw:" aina (aina)",
  },
  {1457   
      id:1457,
-     eng:" kind(caring),
+     eng:" kind(caring)",
      type:"Adjective",
         
-      ksw:" aina (kujali),
+      ksw:" aina (kujali)",
  },
  {1458  
      id:1458,
@@ -10306,8 +10306,8 @@ export const words =[
  {1474  
      id:1474,
      eng:" land",
-     type:"Noun", Verb",
-         A2,
+     type:"Noun ,verb",
+          
       ksw:" ardhi",
  },
  {1475   
@@ -10347,17 +10347,17 @@ export const words =[
  },
  {1480  
      id:1480,
-     eng:" last1 (final),
+     eng:" last1 (final)",
      type:"det., Adverb n",
-         A2,
-      ksw:" last1 (ya mwisho),
+          
+      ksw:" last1 (ya mwisho)",
  },
  {1481   
      id:1481,
-     eng:" last1 (taking time),
+     eng:" last1 (taking time)",
      type:"Verb",
         
-      ksw:" last1 (kuchukua muda),
+      ksw:" last1 (kuchukua muda)",
  },
  {1482  
      id:1482,
@@ -10370,7 +10370,7 @@ export const words =[
      id:1483,
      eng:" later",
      type:"Adverb , Adjective",
-         A2,
+          
       ksw:" baadae",
  },
  {1484  
@@ -10607,7 +10607,7 @@ export const words =[
  {1517   
      id:1517,
      eng:" level",
-     type:"Noun", Adjective , Verb",
+     type:"Noun ,Adjective , Verb",
             
       ksw:" kiwango cha",
  },
@@ -10662,31 +10662,31 @@ export const words =[
  },
  {1525   
      id:1525,
-     eng:" light (from the sun/a lamp),
+     eng:" light (from the sun/a lamp)",
      type:"Noun Adverb , Verb",
-         A2,
-      ksw:" mwanga (jua / taa),
+          
+      ksw:" mwanga (jua / taa)",
  },
  {1526  
      id:1526,
-     eng:" light (not heavy),
+     eng:" light (not heavy)",
      type:"Adjective",
         
-      ksw:" mwanga (si kubwa),
+      ksw:" mwanga (si kubwa)",
  },
  {1527   
      id:1527,
-     eng:" like (similar),
+     eng:" like (similar)",
      type:"prep.,
         
-      ksw:" kama (sawa),
+      ksw:" kama (sawa)",
  },
  {1528  
      id:1528,
-     eng:" like (find sb/sth pleasant),
+     eng:" like (find sb/sth pleasant)",
      type:"Verb , n",
           
-      ksw:" kama (kupata sb / sth mazuri),
+      ksw:" kama (kupata sb / sth mazuri)",
  },
  {1529   
      id:1529,
@@ -10718,7 +10718,7 @@ export const words =[
  {1533   
      id:1533,
      eng:" line",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" line",
  },
@@ -10781,8 +10781,8 @@ export const words =[
  {1542  
      id:1542,
      eng:" little",
-     type:"Adjective det./proNoun", Adverb",
-         A2,
+     type:"Adjective det./proNoun ,Adverb",
+          
       ksw:" kidogo",
  },
  {1543   
@@ -10894,7 +10894,7 @@ export const words =[
      id:1558,
      eng:" look",
      type:"Verb , Noun",
-         A2,
+          
       ksw:" kuangalia",
  },
  {1559   
@@ -11159,7 +11159,7 @@ export const words =[
  {1596  
      id:1596,
      eng:" map",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" ramani",
  },
@@ -11180,7 +11180,7 @@ export const words =[
  {1599   
      id:1599,
      eng:" market",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" soko",
  },
@@ -11548,10 +11548,10 @@ export const words =[
  },
  {1652  
      id:1652,
-     eng:" mine (belongs to me),
+     eng:" mine (belongs to me)",
      type:"proNoun",
         
-      ksw:" mgodi (ni yangu),
+      ksw:" mgodi (ni yangu)",
  },
  {1653   
      id:1653,
@@ -11668,7 +11668,7 @@ export const words =[
  {1669   
      id:1669,
      eng:" model",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" mfano",
  },
@@ -12109,7 +12109,7 @@ export const words =[
  {1732  
      id:1732,
      eng:" neither",
-     type:"det./proNoun", Adverb",
+     type:"det./proNoun ,Adverb",
           
       ksw:" wala",
  },
@@ -12389,8 +12389,8 @@ export const words =[
  {1772  
      id:1772,
      eng:" number",
-     type:"Noun", Verb",
-         A2,
+     type:"Noun ,verb",
+          
       ksw:" idadi",
  },
  {1773   
@@ -12936,7 +12936,7 @@ export const words =[
      id:1850,
      eng:" outside",
      type:"Adverb , prep. nouNoun Adjective",
-         A2,
+          
       ksw:" nje",
  },
  {1851   
@@ -12970,8 +12970,8 @@ export const words =[
  {1855   
      id:1855,
      eng:" own",
-     type:"Adjective /proNoun", Verb",
-         A2,
+     type:"Adjective /proNoun ,verb",
+          
       ksw:" mwenyewe",
  },
  {1856  
@@ -12984,7 +12984,7 @@ export const words =[
  {1857   
      id:1857,
      eng:" pace",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
      
       ksw:" kasi",
  },
@@ -12998,7 +12998,7 @@ export const words =[
  {1859   
      id:1859,
      eng:" package",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" mfuko",
  },
@@ -13223,7 +13223,7 @@ export const words =[
      id:1891,
      eng:" past",
      type:"Adjective Noun prep., Adverb",
-         A2,
+          
       ksw:" siku za nyuma",
  },
  {1892  
@@ -13236,7 +13236,7 @@ export const words =[
  {1893   
      id:1893,
      eng:" patient",
-     type:"Noun", Adjective",
+     type:"Noun ,Adjective",
           
       ksw:" mgonjwa",
  },
@@ -13251,7 +13251,7 @@ export const words =[
      id:1895,
      eng:" pay",
      type:"Verb , Noun",
-         A2,
+          
       ksw:" kulipa",
  },
  {1896  
@@ -13495,8 +13495,8 @@ export const words =[
  {1930  
      id:1930,
      eng:" photograph",
-     type:"Noun", Verb",
-         A2,
+     type:"Noun ,verb",
+          
       ksw:" picha",
  },
  {1931   
@@ -13551,7 +13551,7 @@ export const words =[
  {1938  
      id:1938,
      eng:" picture",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" picha",
  },
@@ -13657,7 +13657,7 @@ export const words =[
      id:1953,
      eng:" plant",
      type:"Noun Verb",
-         A2,
+          
       ksw:" mmea",
  },
  {1954  
@@ -13706,7 +13706,7 @@ export const words =[
      id:1960,
      eng:" please",
      type:"exclam., Verb",
-         A2,
+          
       ksw:" tafadhali",
  },
  {1961   
@@ -13733,7 +13733,7 @@ export const words =[
  {1964  
      id:1964,
      eng:" plot",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" njama",
  },
@@ -13775,7 +13775,7 @@ export const words =[
  {1970  
      id:1970,
      eng:" point",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" hatua",
  },
@@ -13922,7 +13922,7 @@ export const words =[
  {1991   
      id:1991,
      eng:" position",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" nafasi",
  },
@@ -14034,7 +14034,7 @@ export const words =[
  {2007   
      id:2007,
      eng:" power",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" nguvu",
  },
@@ -14146,8 +14146,8 @@ export const words =[
  {2023   
      id:2023,
      eng:" present",
-     type:"Adjective Noun", Verb",
-         A2,
+     type:"Adjective Noun ,verb",
+          
       ksw:" sasa",
  },
  {2024  
@@ -14223,7 +14223,7 @@ export const words =[
  {2034  
      id:2034,
      eng:" price",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" bei",
  },
@@ -14356,7 +14356,7 @@ export const words =[
  {2053   
      id:2053,
      eng:" process",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" mchakato",
  },
@@ -14426,7 +14426,7 @@ export const words =[
  {2063   
      id:2063,
      eng:" program",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" mpango",
  },
@@ -14440,14 +14440,14 @@ export const words =[
  {2065   
      id:2065,
      eng:" progress",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" maendeleo",
  },
  {2066  
      id:2066,
      eng:" project",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" mradi",
  },
@@ -14734,8 +14734,8 @@ export const words =[
  {2107   
      id:2107,
      eng:" question",
-     type:"Noun", Verb",
-         A2,
+     type:"Noun ,verb",
+          
       ksw:" swali",
  },
  {2108  
@@ -14803,17 +14803,17 @@ export const words =[
  },
  {2117   
      id:2117,
-     eng:" race (competition),
+     eng:" race (competition)",
      type:"NounVerb",
         
-      ksw:" mbio (mashindano),
+      ksw:" mbio (mashindano)",
  },
  {2118  
      id:2118,
-     eng:" race (people),
+     eng:" race (people)",
      type:"Noun",
         
-      ksw:" mbio (watu),
+      ksw:" mbio (watu)",
  },
  {2119   
      id:2119,
@@ -14853,7 +14853,7 @@ export const words =[
  {2124  
      id:2124,
      eng:" range",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" mbalimbali",
  },
@@ -14895,7 +14895,7 @@ export const words =[
  {2130  
      id:2130,
      eng:" rate",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" kiwango",
  },
@@ -15420,8 +15420,8 @@ export const words =[
  {2205   
      id:2205,
      eng:" report",
-     type:"Noun", Verb",
-         A2,
+     type:"Noun ,verb",
+          
       ksw:" ripoti",
  },
  {2206  
@@ -15455,7 +15455,7 @@ export const words =[
  {2210  
      id:2210,
      eng:" request",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" ombi",
  },
@@ -15580,17 +15580,17 @@ export const words =[
  },
  {2228  
      id:2228,
-     eng:" rest (remaining part),
+     eng:" rest (remaining part)",
      type:"Noun",
         
-      ksw:" kupumzika (iliyobaki sehemu),
+      ksw:" kupumzika (iliyobaki sehemu)",
  },
  {2229   
      id:2229,
-     eng:" rest (sleep/relax),
+     eng:" rest (sleep/relax)",
      type:"Noun Verb",
         
-      ksw:" wengine (usingizi / kupumzika),
+      ksw:" wengine (usingizi / kupumzika)",
  },
  {2230  
      id:2230,
@@ -15602,7 +15602,7 @@ export const words =[
  {2231   
      id:2231,
      eng:" result",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" kusababisha",
  },
@@ -15701,7 +15701,7 @@ export const words =[
      id:2245,
      eng:" ride",
      type:"Verb , Noun",
-         A2,
+          
       ksw:" safari",
  },
  {2246  
@@ -15762,17 +15762,17 @@ export const words =[
  },
  {2254  
      id:2254,
-     eng:" rock (stone),
+     eng:" rock (stone)",
      type:"Noun",
         
-      ksw:" mwamba (jiwe),
+      ksw:" mwamba (jiwe)",
  },
  {2255   
      id:2255,
-     eng:" rock (music),
+     eng:" rock (music)",
      type:"Noun",
         
-      ksw:" mwamba (muziki),
+      ksw:" mwamba (muziki)",
  },
  {2256  
      id:2256,
@@ -15847,7 +15847,7 @@ export const words =[
  {2266  
      id:2266,
      eng:" routine",
-     type:"Noun", Adjective",
+     type:"Noun ,Adjective",
           
       ksw:" mara kwa mara",
  },
@@ -15903,7 +15903,7 @@ export const words =[
  {2274  
      id:2274,
      eng:" rule",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" utawala",
  },
@@ -15911,7 +15911,7 @@ export const words =[
      id:2275,
      eng:" run",
      type:"Verb , Noun",
-         A2,
+          
       ksw:" kukimbia",
  },
  {2276  
@@ -16029,7 +16029,7 @@ export const words =[
  {2292  
      id:2292,
      eng:" sample",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" sampuli",
  },
@@ -16141,7 +16141,7 @@ export const words =[
  {2308  
      id:2308,
      eng:" schedule",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" ratiba",
  },
@@ -16245,17 +16245,17 @@ export const words =[
  },
  {2323   
      id:2323,
-     eng:" second1 (next after the first),
-     type:"et./ number", Adverb",
-         A2,
-      ksw:" second1 (ya baada ya kwanza),
+     eng:" second1 (next after the first)",
+     type:"et./ number ,Adverb",
+          
+      ksw:" second1 (ya baada ya kwanza)",
  },
  {2324  
      id:2324,
-     eng:" second1 (unit of time),
+     eng:" second1 (unit of time)",
      type:"Noun",
         
-      ksw:" second1 (kitengo ya muda),
+      ksw:" second1 (kitengo ya muda)",
  },
  {2325   
      id:2325,
@@ -16274,7 +16274,7 @@ export const words =[
  {2327   
      id:2327,
      eng:" secret",
-     type:"Adjective", Noun",
+     type:"Adjective ,Noun",
         
       ksw:" siri",
  },
@@ -16414,7 +16414,7 @@ export const words =[
  {2347   
      id:2347,
      eng:" separate",
-     type:"Adjective", Verb",
+     type:"Adjective ,verb",
           
       ksw:" tofauti",
  },
@@ -16483,17 +16483,17 @@ export const words =[
  },
  {2357   
      id:2357,
-     eng:" set (put),
+     eng:" set (put)",
      type:"Verb",
         
-      ksw:" kuweka (kuweka),
+      ksw:" kuweka (kuweka)",
  },
  {2358  
      id:2358,
-     eng:" set (group),
+     eng:" set (group)",
      type:"Noun",
         
-      ksw:" seti (kundi),
+      ksw:" seti (kundi)",
  },
  {2359   
      id:2359,
@@ -17094,7 +17094,7 @@ export const words =[
      id:2444,
      eng:" sleep",
      type:"Verb , Noun",
-         A2,
+          
       ksw:" usingizi",
  },
  {2445   
@@ -17401,7 +17401,7 @@ export const words =[
  {2488  
      id:2488,
      eng:" sort",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" aina",
  },
@@ -17513,7 +17513,7 @@ export const words =[
  {2504  
      id:2504,
      eng:" speed",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" kasi",
  },
@@ -17611,7 +17611,7 @@ export const words =[
  {2518  
      id:2518,
      eng:" spot",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" doa",
  },
@@ -17625,7 +17625,7 @@ export const words =[
  {2520  
      id:2520,
      eng:" spring",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" spring",
  },
@@ -17660,7 +17660,7 @@ export const words =[
  {2525   
      id:2525,
      eng:" stage",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" hatua",
  },
@@ -17695,8 +17695,8 @@ export const words =[
  {2530  
      id:2530,
      eng:" star",
-     type:"Noun", Verb",
-         A2,
+     type:"Noun ,verb",
+          
       ksw:" nyota",
  },
  {2531   
@@ -17710,13 +17710,13 @@ export const words =[
      id:2532,
      eng:" start",
      type:"Verb , Noun",
-         A2,
+          
       ksw:" kuanza",
  },
  {2533   
      id:2533,
      eng:" state",
-     type:"Noun", Adjective , v",
+     type:"Noun ,Adjective , v",
           
       ksw:" hali",
  },
@@ -17759,7 +17759,7 @@ export const words =[
      id:2539,
      eng:" stay",
      type:"Verb , Noun",
-         A2,
+          
       ksw:" kukaa",
  },
  {2540  
@@ -17793,23 +17793,23 @@ export const words =[
  {2544  
      id:2544,
      eng:" step",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" hatua",
  },
  {2545   
      id:2545,
-     eng:" stick (push into/attach),
+     eng:" stick (push into/attach)",
      type:"Verb",
         
-      ksw:" fimbo (kushinikiza katika / ambatisha),
+      ksw:" fimbo (kushinikiza katika / ambatisha)",
  },
  {2546  
      id:2546,
-     eng:" stick (piece of wood),
+     eng:" stick (piece of wood)",
      type:"Noun",
         
-      ksw:" fimbo (sehemu ya mbao),
+      ksw:" fimbo (sehemu ya mbao)",
  },
  {2547   
      id:2547,
@@ -17863,7 +17863,7 @@ export const words =[
  {2554  
      id:2554,
      eng:" store",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" duka",
  },
@@ -17982,7 +17982,7 @@ export const words =[
  {2571   
      id:2571,
      eng:" structure",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" muundo",
  },
@@ -18017,7 +18017,7 @@ export const words =[
  {2576  
      id:2576,
      eng:" stuff",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" mambo",
  },
@@ -18038,7 +18038,7 @@ export const words =[
  {2579   
      id:2579,
      eng:" subject",
-     type:"Noun", Adjective",
+     type:"Noun ,Adjective",
           
       ksw:" somo",
  },
@@ -18136,7 +18136,7 @@ export const words =[
  {2593   
      id:2593,
      eng:" suit",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" suti",
  },
@@ -18228,7 +18228,7 @@ export const words =[
      id:2606,
      eng:" sure",
      type:"Adjective , Adverb",
-         A2,
+          
       ksw:" uhakika",
  },
  {2607   
@@ -18290,7 +18290,7 @@ export const words =[
  {2615   
      id:2615,
      eng:" survey",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" utafiti",
  },
@@ -18438,7 +18438,7 @@ export const words =[
      id:2636,
      eng:" talk",
      type:"Verb , Noun",
-         A2,
+          
       ksw:" majadiliano",
  },
  {2637   
@@ -18465,7 +18465,7 @@ export const words =[
  {2640  
      id:2640,
      eng:" target",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" Lengo",
  },
@@ -18534,7 +18534,7 @@ export const words =[
  },
  {2650  
      id:2650,
-     eng:" tear1,
+     eng:" tear1",
      type:"Verb Noun",
      
       ksw:" tear1,
@@ -18647,7 +18647,7 @@ export const words =[
  {2666  
      id:2666,
      eng:" term",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" mrefu",
  },
@@ -18668,8 +18668,8 @@ export const words =[
  {2669   
      id:2669,
      eng:" text",
-     type:"Noun", Verb",
-         A2,
+     type:"Noun ,verb",
+          
       ksw:" Nakala",
  },
  {2670  
@@ -18836,8 +18836,8 @@ export const words =[
  {2693   
      id:2693,
      eng:" third",
-     type:"number", Noun",
-         A2,
+     type:"number ,Noun",
+          
       ksw:" cha tatu",
  },
  {2694  
@@ -18864,7 +18864,7 @@ export const words =[
  {2697   
      id:2697,
      eng:" this",
-     type:"det./proNoun", Adverb",
+     type:"det./proNoun ,Adverb",
           
       ksw:" hii",
  },
@@ -18990,7 +18990,7 @@ export const words =[
  {2715   
      id:2715,
      eng:" time",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" wakati",
  },
@@ -19011,7 +19011,7 @@ export const words =[
  {2718  
      id:2718,
      eng:" tip",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" ncha",
  },
@@ -19123,7 +19123,7 @@ export const words =[
  {2734  
      id:2734,
      eng:" top",
-     type:"Noun", Adjective",
+     type:"Noun ,Adjective",
         
       ksw:" juu",
  },
@@ -19165,7 +19165,7 @@ export const words =[
  {2740  
      id:2740,
      eng:" tour",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" tour",
  },
@@ -19186,7 +19186,7 @@ export const words =[
  {2743   
      id:2743,
      eng:" towards",
-     type:"prep.,
+     type:"prep.",
         
       ksw:" kuelekea",
  },
@@ -19214,21 +19214,21 @@ export const words =[
  {2747   
      id:2747,
      eng:" toy",
-     type:"Noun", Adjective",
+     type:"Noun ,Adjective",
         
       ksw:" toy",
  },
  {2748  
      id:2748,
      eng:" track",
-     type:"Noun", Verb",
+     type:"Noun ,verb",
           
       ksw:" kufuatilia",
  },
  {2749   
      id:2749,
      eng:" trade",
-     type:"Noun", Verb",
+     type:"Noun, Verb",
         
       ksw:" biashara",
  },
@@ -19256,8 +19256,8 @@ export const words =[
  {2753   
      id:2753,
      eng:" train",
-     type:"Noun", Verb",
-         A2,
+     type:"Noun, Verb",
+          
       ksw:" treni",
  },
  {2754  
@@ -19312,7 +19312,7 @@ export const words =[
  {2761   
      id:2761,
      eng:" transport",
-     type:"Noun", Verb",
+     type:"Noun, Verb",
           
       ksw:" usafirishaji",
  },
@@ -19375,7 +19375,7 @@ export const words =[
  {2770  
      id:2770,
      eng:" trip",
-     type:"Noun", Verb",
+     type:"Noun, Verb",
           
       ksw:" safari",
  },
@@ -19389,7 +19389,7 @@ export const words =[
  {2772  
      id:2772,
      eng:" trouble",
-     type:"Noun", Verb",
+     type:"Noun, Verb",
           
       ksw:" shida",
  },
@@ -19529,7 +19529,7 @@ export const words =[
  {2792  
      id:2792,
      eng:" type",
-     type:"Noun", Verb",
+     type:"Noun, Verb",
           
       ksw:" aina",
  },
@@ -19774,7 +19774,7 @@ export const words =[
  {2827   
      id:2827,
      eng:" until",
-     type:"conj./prep.,
+     type:"conj./prep.",
         
       ksw:" mpaka",
  },
@@ -19824,7 +19824,7 @@ export const words =[
      id:2834,
      eng:" upstairs",
      type:"Adverb , Adjective",
-         A2,
+          
       ksw:" ghorofani",
  },
  {2835   
@@ -19859,7 +19859,7 @@ export const words =[
      id:2839,
      eng:" use",
      type:"Verb , Noun",
-         A2,
+          
       ksw:" matumizi",
  },
  {2840  
@@ -19928,7 +19928,7 @@ export const words =[
  {2849   
      id:2849,
      eng:" value",
-     type:"Noun", Verb",
+     type:"Noun, Verb",
           
       ksw:" thamani",
  },
@@ -20005,7 +20005,7 @@ export const words =[
  {2860  
      id:2860,
      eng:" via",
-     type:"prep.,
+     type:"prep.",
      
       ksw:" kupitia",
  },
@@ -20033,7 +20033,7 @@ export const words =[
  {2864  
      id:2864,
      eng:" view",
-     type:"Noun", Verb",
+     type:"Noun, Verb",
         ,
       ksw:" mtazamo",
  },
@@ -20160,7 +20160,7 @@ export const words =[
      id:2882,
      eng:" wait",
      type:"Verb , Noun",
-         A2,
+          
       ksw:" kusubiri",
  },
  {2883   
@@ -20230,7 +20230,7 @@ export const words =[
      id:2892,
      eng:" wash",
      type:"Verb , Noun",
-         A2,
+          
       ksw:" osha",
  },
  {2893   
@@ -20243,7 +20243,7 @@ export const words =[
  {2894  
      id:2894,
      eng:" waste",
-     type:"Noun v", Adjective",
+     type:"Noun v, Adjective",
         
       ksw:" kupoteza",
  },
@@ -20257,7 +20257,7 @@ export const words =[
  {2896  
      id:2896,
      eng:" water",
-     type:"Noun", Verb",
+     type:"Noun, Verb",
           
       ksw:" maji",
  },
@@ -20391,13 +20391,13 @@ export const words =[
      id:2915,
      eng:" welcome",
      type:"exclam. Verb Adjective , n",
-         A2,
+          
       ksw:" karibu",
  },
  {2916  
      id:2916,
      eng:" well",
-     type:"Adverb , Adjective , exclam.,
+     type:"Adverb , Adjective , exclam.",
         
       ksw:" vizuri",
  },
@@ -20446,42 +20446,42 @@ export const words =[
  {2923   
      id:2923,
      eng:" when",
-     type:"Adverb proNounconj.,
+     type:"Adverb proNounconj.",
         
       ksw:" lini",
  },
  {2924  
      id:2924,
      eng:" whenever",
-     type:"conj.,
+     type:"conj.",
         
       ksw:" wakati wowote",
  },
  {2925   
      id:2925,
      eng:" where",
-     type:"Adverb conj.,
+     type:"Adverb conj.",
         
       ksw:" ambapo",
  },
  {2926  
      id:2926,
      eng:" whereas",
-     type:"conj.,
+     type:"conj.",
      
       ksw:" wakati",
  },
  {2927   
      id:2927,
      eng:" wherever",
-     type:"conj.,
+     type:"conj.",
      
       ksw:" popote",
  },
  {2928  
      id:2928,
      eng:" whether",
-     type:"conj.,
+     type:"conj.",
         
       ksw:" kama",
  },
@@ -20606,7 +20606,7 @@ export const words =[
  },
  {2946  
      id:2946,
-     eng:" wind1,
+     eng:" wind1",
      type:"Noun",
         
       ksw:" wind1,
