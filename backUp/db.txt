@@ -1,4 +1,4 @@
-//created by henry 🧑‍💻😊
+//created by henry😊
 
 export const words = [                          
  {  
@@ -20990,6 +20990,3 @@ export const words = [
 
                       
 ];
-for (let i = 0; i < words.length; i++){
-console.log(words[i].type+":"+words[i].eng+" = "+words[i].ksw);
-}
