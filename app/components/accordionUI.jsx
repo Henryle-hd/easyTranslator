@@ -13,7 +13,9 @@ const AccordionUI = () => {
                   all words
               </AccordionHeader>
               <AccordionBody>
+                  
                   <AllWords />
+                  
               </AccordionBody>
           </Accordion>
           

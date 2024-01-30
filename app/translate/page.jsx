@@ -3,7 +3,7 @@ const translate = () => {
   return (
     <div className="flex flex-col justify-center items-center mt-10">
       
-          <AccordionUI />
+          <AccordionUI /> 
     </div>
   )
 }
