@@ -1,12 +1,16 @@
-import AllWords from "./components/allWords"
+'use client';
+
+import SearchWord from "./components/searchWord"
 
 const page = () => {
   return (
     <div className="flex flex-col justify-center items-center mt-10 " >
       <h2 className="text-center">easyTranslator 🧑‍💻</h2>
-
-      <div className="w-[60%]">
-        <AllWords />
+      <SearchWord />
+      
+      
+      <div className="w-[60%] flex flex-col justify-center">
+        
       </div>
       
       

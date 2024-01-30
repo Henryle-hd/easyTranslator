@@ -6,5 +6,5 @@ import { NextResponse } from "next/server";
 export async function GET(_, res) {
     const { id } = await res.params;
     const word = words.filter((w) => w.id == id);
-    return NextResponse.json({word});
+    return NextResponse.json({word, ok: true});
 } 

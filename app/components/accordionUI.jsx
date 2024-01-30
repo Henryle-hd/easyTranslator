@@ -2,6 +2,7 @@
 import{Accordion, AccordionHeader, AccordionBody} from "@material-tailwind/react"
 import { useState } from "react";
 import AllWords from "./allWords";
+import SearchWord from "./searchWord";
 
 const AccordionUI = () => {
     const [open, setOpen] = useState(1);
@@ -18,6 +19,17 @@ const AccordionUI = () => {
                   
               </AccordionBody>
           </Accordion>
+          
+              <Accordion open={open===2}>
+                  <AccordionHeader onClick={()=>handleOpen(2)}>
+                  seach a word 
+              </AccordionHeader>
+
+              <AccordionBody>
+                  <SearchWord />
+              </AccordionBody>
+              </Accordion>
+          
           
     </section>
   )
